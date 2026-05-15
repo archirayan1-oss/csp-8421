@@ -8,13 +8,13 @@ The guide also explains how organizations can strengthen authentication systems,
 
 ## Key Security Skills
 
-- [web-development](https://perfectfirms.com/top-leading-companies/web-development)
-- - [csp](https://perfectfirms.com/top-leading-companies/csp)
-  - - [cors](https://perfectfirms.com/top-trusted-companies/cors)
-    - - [referrer-policy](https://perfectfirms.com/top-leading-companies/referrer-policy)
-      - - [xss-mitigation](https://perfectfirms.com/top-leading-companies/xss-mitigation)
-        - - [secure-cookies](https://perfectfirms.com/top-rated-companies/secure-cookies)
-          - - [http-headers](https://perfectfirms.com/skills/http-headers/companies)
+- [modern-web-development-security](https://perfectfirms.com/top-leading-companies/web-development)
+- [content-security-policy-csp](https://perfectfirms.com/top-leading-companies/csp)
+- [secure-cross-origin-resource-sharing](https://perfectfirms.com/top-trusted-companies/cors)
+- [advanced-referrer-policy-protection](https://perfectfirms.com/top-leading-companies/referrer-policy)
+- [enterprise-xss-mitigation-solutions](https://perfectfirms.com/top-leading-companies/xss-mitigation)
+- [secure-session-and-cookie-management](https://perfectfirms.com/top-rated-companies/secure-cookies)
+- [modern-http-security-headers](https://perfectfirms.com/skills/http-headers/companies)
             -
             - Modern enterprises increasingly adopt Zero Trust security models, DevSecOps workflows, browser-level protections, secure API management, and continuous monitoring systems to protect users and digital infrastructure. Implementing layered security controls significantly reduces risks associated with cross-origin attacks, session hijacking, malicious third-party scripts, and browser-based vulnerabilities.
             - # csp-8421
